@@ -1,6 +1,6 @@
 
 <p align="center">
-Desafio 03 - Criando um hook de carrinho de compras
+Desafio 02 - Criando um hook de carrinho de compras
 </p>
 
 ## 🧠 Desafio proposto
@@ -16,5 +16,3 @@ Desafio 03 - Criando um hook de carrinho de compras
 - [x] Validação de estoque;
 - [x] Exibição de mensagens de erro;
 
-## 👨‍🎓 Nota
-<img src="./.github/grade.png" alt="Nota do desafio">
