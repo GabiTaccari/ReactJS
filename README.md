@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="./.github/project.gif" alt="Preview do projeto">
-</p>
-
-<h1 align="center">
-  RocketShoes
-</h1>
 
 <p align="center">
 Desafio 03 - Criando um hook de carrinho de compras
